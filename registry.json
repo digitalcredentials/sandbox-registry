@@ -8,6 +8,11 @@
       "name":"(Example) My University",
       "location":"Cambridge, MA, USA",
       "url":"https://digitalcredentials.mit.edu"
+    },
+    "did:key:z6Mktpn6cXks1PBKLMgZH2VaahvCtBMF6K8eCa7HzrnuYLZv":{
+      "name":"James Test",
+      "location":"Ancaster, ON, Canada",
+      "url":"https://somewhere.org"
     }
   }
 }
