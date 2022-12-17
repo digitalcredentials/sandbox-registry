@@ -13,6 +13,11 @@
       "name":"James Test",
       "location":"Ancaster, ON, Canada",
       "url":"https://somewhere.org"
+    },
+    "did:key:z6MknvVdQF7JUJ1WtLbjUJU7xuUDoFND2F2fhPcJkrXcYG55":{
+      "name":"James second test",
+      "location":"Hamilton, ON, Canada",
+      "url":"https://hamilton.ca"
     }
   }
 }
