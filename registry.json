@@ -25,9 +25,9 @@
        "url":"https://hamilton.ca"
     },
     "did:key:z6Mkmjp1vQNev9wYjRA9DqnXwKRuDTb85UGhcjK1FTWrdu6X":{
-      "name":"James fourth test",
+      "name":"Digital Credentials Consortium Test Issuer",
        "location":"Ancaster, ON, Canada",
-       "url":"https://myissuer.ca"
+       "url":"https://www.dcconsortium.org/"
     }
   }
 }
