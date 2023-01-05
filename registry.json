@@ -23,6 +23,11 @@
       "name":"James third test",
        "location":"Hamilton, ON, Canada",
        "url":"https://hamilton.ca"
+    },
+    "did:key:z6Mkmjp1vQNev9wYjRA9DqnXwKRuDTb85UGhcjK1FTWrdu6X":{
+      "name":"James fourth test",
+       "location":"Ancaster, ON, Canada",
+       "url":"https://myissuer.ca"
     }
   }
 }
