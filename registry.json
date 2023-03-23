@@ -28,6 +28,11 @@
       "name":"Digital Credentials Consortium Test Issuer",
        "location":"Ancaster, ON, Canada",
        "url":"https://www.dcconsortium.org/"
+    },
+    "did:key:z6MkkePoGJV8CQJJULSHHUEv71okD9PsrqXnZpNQuoUfb3id":{
+      "name":"Open edX Test Issuer (RaccoonGang)",
+      "location":"Cambridge, MA, USA",
+      "url":"https://openedx.org/"
     }
   }
 }
