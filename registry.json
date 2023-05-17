@@ -37,7 +37,7 @@
     "did:key:z6MkwDsrhd2TWx1vExAh3CLwAdBuUtvTQQNXGH2Q1VkrjrDo":{
       "name":"Kerri Demo Issuer",
       "location":"Cambridge, MA, USA",
-      "url":"https://digitalcredentials.mit.edu"
+      "url":"https://oauth.mocklab.io"
     }
   }
 }
