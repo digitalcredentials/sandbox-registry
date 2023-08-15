@@ -38,6 +38,11 @@
       "name":"Kerri Demo Issuer",
       "location":"Cambridge, MA, USA",
       "url":"https://demo-vc-issue.tunnelto.dev/basic-obv3"
+    },
+    "did:key:z6MktX5qZqmCSXw6q4Mh9kVky1aMU5DptPeCvJrDnHTVvzaL":{
+        "name":"CS50 Demo Issuer",
+        "location":"Cambridge, MA, USA",
+        "url":"https://issuer.cs50.harvard.edu"
     }
   }
 }
