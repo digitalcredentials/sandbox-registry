@@ -3,46 +3,51 @@
     "created":"2022-10-27T17:57:31+00:00",
     "updated":"2022-10-27T17:57:31+00:00"
   },
-  "registry":{
-    "did:key:z6MkpLDL3RoAoMRTwTgo3rs39ZwssfaPKtGdZw7AGRN7CK4W":{
-      "name":"(Example) My University",
-      "location":"Cambridge, MA, USA",
-      "url":"https://digitalcredentials.mit.edu"
+  "registry": {
+    "did:key:z6MkpLDL3RoAoMRTwTgo3rs39ZwssfaPKtGdZw7AGRN7CK4W": {
+      "name": "(Example) My University",
+      "location": "Cambridge, MA, USA",
+      "url": "https://digitalcredentials.mit.edu"
     },
-    "did:key:z6Mktpn6cXks1PBKLMgZH2VaahvCtBMF6K8eCa7HzrnuYLZv":{
-      "name":"James Test",
-      "location":"Ancaster, ON, Canada",
-      "url":"https://somewhere.org"
+    "did:key:z6Mktpn6cXks1PBKLMgZH2VaahvCtBMF6K8eCa7HzrnuYLZv": {
+      "name": "James Test",
+      "location": "Ancaster, ON, Canada",
+      "url": "https://somewhere.org"
     },
-     "did:key:z6MknvVdQF7JUJ1WtLbjUJU7xuUDoFND2F2fhPcJkrXcYG55":{
-       "name":"James second test",
-       "location":"Hamilton, ON, Canada",
-       "url":"https://hamilton.ca"
-     },
-    "did:key:z6MkgZPw6o5x8VTDyaTupza5bJMprsCrwD48RkxDksfx4qoU":{
-      "name":"James third test",
-       "location":"Hamilton, ON, Canada",
-       "url":"https://hamilton.ca"
+    "did:key:z6MknvVdQF7JUJ1WtLbjUJU7xuUDoFND2F2fhPcJkrXcYG55": {
+      "name": "James second test",
+      "location": "Hamilton, ON, Canada",
+      "url": "https://hamilton.ca"
     },
-    "did:key:z6Mkmjp1vQNev9wYjRA9DqnXwKRuDTb85UGhcjK1FTWrdu6X":{
-      "name":"Digital Credentials Consortium Test Issuer",
-       "location":"Ancaster, ON, Canada",
-       "url":"https://www.dcconsortium.org/"
+    "did:key:z6MkgZPw6o5x8VTDyaTupza5bJMprsCrwD48RkxDksfx4qoU": {
+      "name": "James third test",
+      "location": "Hamilton, ON, Canada",
+      "url": "https://hamilton.ca"
     },
-    "did:key:z6MkkePoGJV8CQJJULSHHUEv71okD9PsrqXnZpNQuoUfb3id":{
-      "name":"Open edX Test Issuer (RaccoonGang)",
-      "location":"Cambridge, MA, USA",
-      "url":"https://openedx.org/"
+    "did:key:z6Mkmjp1vQNev9wYjRA9DqnXwKRuDTb85UGhcjK1FTWrdu6X": {
+      "name": "Digital Credentials Consortium Test Issuer",
+      "location": "Ancaster, ON, Canada",
+      "url": "https://www.dcconsortium.org/"
     },
-    "did:key:z6MkwDsrhd2TWx1vExAh3CLwAdBuUtvTQQNXGH2Q1VkrjrDo":{
-      "name":"Kerri Demo Issuer",
-      "location":"Cambridge, MA, USA",
-      "url":"https://demo-vc-issue.tunnelto.dev/basic-obv3"
+    "did:key:z6MkkePoGJV8CQJJULSHHUEv71okD9PsrqXnZpNQuoUfb3id": {
+      "name": "Open edX Test Issuer (RaccoonGang)",
+      "location": "Cambridge, MA, USA",
+      "url": "https://openedx.org/"
     },
-    "did:key:z6MktX5qZqmCSXw6q4Mh9kVky1aMU5DptPeCvJrDnHTVvzaL":{
-        "name":"CS50 Demo Issuer",
-        "location":"Cambridge, MA, USA",
-        "url":"https://issuer.cs50.harvard.edu"
+    "did:key:z6MkwDsrhd2TWx1vExAh3CLwAdBuUtvTQQNXGH2Q1VkrjrDo": {
+      "name": "Kerri Demo Issuer",
+      "location": "Cambridge, MA, USA",
+      "url": "https://demo-vc-issue.tunnelto.dev/basic-obv3"
+    },
+    "did:key:z6MktX5qZqmCSXw6q4Mh9kVky1aMU5DptPeCvJrDnHTVvzaL": {
+      "name": "CS50 Demo Issuer",
+      "location": "Cambridge, MA, USA",
+      "url": "https://issuer.cs50.harvard.edu"
+    },
+    "did:key:z6Mkr3oy4PPP5cBpdgvmz1mqqPWkVrzzkEq2btA1exN9YiVX": {
+      "name": "SOLID Issuer",
+      "location": "Fairfax, VA, USA",
+      "url": "https://solidinfodesign.com"
     }
   }
 }
