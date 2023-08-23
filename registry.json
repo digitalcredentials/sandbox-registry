@@ -43,6 +43,11 @@
         "name":"CS50 Demo Issuer",
         "location":"Cambridge, MA, USA",
         "url":"https://issuer.cs50.harvard.edu"
-    }
+    },
+    "did:key:z6Mkr3oy4PPP5cBpdgvmz1mqqPWkVrzzkEq2btA1exN9YiVX":{
+        "name":"SOLID Issuer",
+        "location":"Fairfax, VA, USA",
+        "url":"https://solidinfodesign.com"
+    }  
   }
 }
