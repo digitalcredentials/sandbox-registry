@@ -48,7 +48,11 @@
         "name":"SOLID Issuer",
         "location":"Fairfax, VA, USA",
         "url":"https://solidinfodesign.com"
+    },
+    "did:key:z6MknNQD1WHLGGraFi6zcbGevuAgkVfdyCdtZnQTGWVVvR5Q":{
+        "name":"Public Test Issuer",
+        "location":"Everywhere",
+        "url":"https://dcconsortium.org"
     }
-    
   }
 }
