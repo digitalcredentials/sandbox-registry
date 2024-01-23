@@ -53,6 +53,11 @@
         "name":"Public Test Issuer",
         "location":"Everywhere",
         "url":"https://dcconsortium.org"
+    },
+    "did:key:z6Mkn957Vwed2zBLLZkYiDgoha3cm1KtSE3PeAryJf3T7Vwz":{
+        "name":"ASU Test Issuer",
+        "location":"AZ, USA",
+        "url":"https://www.asu.edu/"
     }
   }
 }
