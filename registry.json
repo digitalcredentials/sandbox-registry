@@ -58,6 +58,11 @@
         "name":"ASU Test Issuer",
         "location":"AZ, USA",
         "url":"https://www.asu.edu/"
-    }
+    },
+	"did:key:z6MktdZHB8NkAnjeWy6jcFyvYvm4tPoJS1c6wu1CEMsq9HLY ": {
+		"name": "Instituto Tecnológico de Monterrey Test",
+		"location": "Monterrey, Nuevo León, México",
+		"url": "https://tec.mx/es"
+	}
   }
 }
