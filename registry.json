@@ -68,6 +68,11 @@
 		"name": "Instituto Tecnológico de Monterrey Test",
 		"location": "Monterrey, Nuevo León, México",
 		"url": "https://tec.mx/es"
-	}
+    },
+	"did:web:dtt.dtlab-labcn.app": {
+		"name": "Digital Trust Test Bench",
+		"location": "Gatineau, Québec, Canada",
+		"url": "https://dtt.dtlab-labcn.app"
+    }
   }
 }
