@@ -78,6 +78,16 @@
 		"name": "Digital Trust Test Bench",
 		"location": "Gatineau, Québec, Canada",
 		"url": "https://dtt.dtlab-labcn.app"
+    },
+    "did:web:participate.dev": {
+      "name": "Participate, Inc (TEST)",
+      "location": "Chapel Hill, NC, USA",
+      "url": "https://www.participate.com"
+    },
+    "did:web:participate.community": {
+      "name": "Participate, Inc",
+      "location": "Chapel Hill, NC, USA",
+      "url": "https://www.participate.com"
     }
   }
 }
