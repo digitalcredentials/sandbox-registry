@@ -98,6 +98,9 @@
       "name": "WGU R&D: General",
       "location": "Millcreek, UT, USA",
       "url": "https://www.wgu.edu"
+    },
+      "did:web:www.credly.com:api:v1:obi:v3:issuers:e0e2733e-936d-462a-8af0-d14c5fa7fd1a": {
+      "name": "Credly Test OBv3 EDL"
     }
   }
 }
