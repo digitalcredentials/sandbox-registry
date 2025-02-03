@@ -106,6 +106,10 @@
     },
       "did:web:www.credly.com:api:v1:obi:v3:issuers:e0e2733e-936d-462a-8af0-d14c5fa7fd1a": {
       "name": "Credly Test OBv3 EDL"
+    },
+    "did:key:z6MkfZq9f2cnn4HbZLQKpmC62fg5S9LpGBhuVqHRkvM6ZyEd": {
+      "name": "InnovateUS",
+      "url": "https://innovate-us.org"
     }
   }
 }
