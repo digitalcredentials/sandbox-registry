@@ -1,9 +1,14 @@
 {
   "meta": {
     "created": "2022-10-27T17:57:31+00:00",
-    "updated": "2025-03-12T16:20:00+00:00"
+    "updated": "2025-05-08T13:07:01+00:00"
   },   
   "registry": {
+    "did:web:digitalcredentials.github.io:vc-test-fixtures:dids:legacy": {
+      "name": "DCC did:web for testing",
+      "location": "Cambridge, MA, USA",
+      "url": "https://digitalcredentials.mit.edu"
+    },
     "did:web:digitalcredentials.github.io:dcc-did-web": {
       "name": "DCC did:web test",
       "location": "Cambridge, MA, USA",
