@@ -1,7 +1,7 @@
 {
   "meta": {
     "created": "2022-10-27T17:57:31+00:00",
-    "updated": "2025-05-09T14:37:07+00:00"
+    "updated": "2025-05-09T18:17:57+00:00"
   },   
   "registry": {
     "did:web:digitalcredentials.github.io:vc-test-fixtures:dids:legacy": {
@@ -11,6 +11,11 @@
     },
     "did:key:z6Mki7DqKQswPsjqMVhP4W3n2ABFb5wBegZC5erEVg5qcgEw": {
       "name": "DCC did:key for testing a did in legacy and oidf",
+      "location": "Cambridge, MA, USA",
+      "url": "https://digitalcredentials.mit.edu"
+    },
+    "did:key:z6MkuL7x2mTEoBmUuuaQ2hvEUd2YsEtmsHeX9JzqJZ8VYaVH": {
+      "name": "DCC did:key for testing a did in four registries",
       "location": "Cambridge, MA, USA",
       "url": "https://digitalcredentials.mit.edu"
     },
