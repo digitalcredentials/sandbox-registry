@@ -133,6 +133,10 @@
     "did:key:z6MkfZq9f2cnn4HbZLQKpmC62fg5S9LpGBhuVqHRkvM6ZyEd": {
       "name": "InnovateUS",
       "url": "https://innovate-us.org"
+    },
+    "did:key:z6Mkqfv4hXbcAbDtam8v3DkpumyrxNaXBJJMcP3Mp7X1Ccwa": {
+      "name": "Goodwill Industries International (Sandbox)",
+      "url": "https://goodwill.claim-dev.prettygoodskills.com"
     }
   }
 }
