@@ -138,5 +138,10 @@
       "name": "Goodwill Industries International (Sandbox)",
       "url": "https://goodwill.claim-dev.prettygoodskills.com"
     }
+    "did:key:z6Mkg7zba9FgHJas6aEH6v9fs2uenNXp7bRre4sEnFthVDE6": {
+      "name": "Open edX CON2025 Demo Issuer",
+      "location": "Paris, France",
+      "url": "https://con.openedx.org/"
+    }
   }
 }
