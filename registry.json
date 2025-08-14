@@ -142,6 +142,10 @@
       "name": "Open edX CON2025 Demo Issuer",
       "location": "Paris, France",
       "url": "https://con.openedx.org/"
+    },
+    "did:key:z6Mko3vgms1K7mccKpUEKQivWdM5BefHfSJEF4XAXofXaGJC": {
+      "name": "Skybridge Skills Interoperability Testing",
+      "url": "https://tinker.claim-dev.prettygoodskills.com"
     }
   }
 }
