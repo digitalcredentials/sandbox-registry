@@ -146,6 +146,11 @@
     "did:key:z6Mko3vgms1K7mccKpUEKQivWdM5BefHfSJEF4XAXofXaGJC": {
       "name": "Skybridge Skills Interoperability Testing",
       "url": "https://tinker.claim-dev.prettygoodskills.com"
+    },
+    "did:web:app.digit.ink:server:dids:test": {
+      "name": "Digit.ink Test Issuer",
+      "location": "Worldwide",
+      "url": "https://www.digit.ink/"
     }
   }
 }
