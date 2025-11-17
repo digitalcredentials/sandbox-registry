@@ -1,7 +1,7 @@
 {
   "meta": {
     "created": "2022-10-27T17:57:31+00:00",
-    "updated": "2025-10-17T14:06:56+00:00"
+    "updated": "2025-11-17T04:05:59+00:00"
   },   
   "registry": {
     "did:web:digitalcredentials.github.io:vc-test-fixtures:dids:legacy": {
@@ -151,6 +151,10 @@
       "name": "Digit.ink Test Issuer",
       "location": "Worldwide",
       "url": "https://www.digit.ink/"
+    },
+    "did:key:z6MkvDG2W1nwocWGT1dzkfCJESyDkABXdxmaqDNP5TMkxZ1n": {
+      "name": "Badge Sandpit Challenge (Skybridge Skills demonstration)",
+      "url": "https://badgesandpit.substack.com/"
     }
   }
 }
