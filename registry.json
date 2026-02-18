@@ -1,8 +1,8 @@
 {
   "meta": {
     "created": "2022-10-27T17:57:31+00:00",
-    "updated": "2026-01-28T02:30:00+00:00"
-  },   
+    "updated": "2026-02-18T10:10:14+00:00"
+  },
   "registry": {
     "did:web:digitalcredentials.github.io:vc-test-fixtures:dids:legacy": {
       "name": "DCC did:web for testing",
@@ -165,6 +165,11 @@
       "name": "Wikimedia Foundation (Test Issuer)",
       "location": "San Francisco, CA, USA",
       "url": "https://learnwiki-dev.edly.io/"
+    },
+    "did:key:z6MkopB4fT3FA3XoQJx2ZXjR3yCy37H9cQi1izJ7gQC4cgZ8": {
+      "name": "Winter Sport Appreciation Club",
+      "location": "Philadelphia, PA, USA",
+      "url": "https://wintersport.prettygoodskills.com"
     }
   }
 }
