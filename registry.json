@@ -1,7 +1,7 @@
 {
   "meta": {
     "created": "2022-10-27T17:57:31+00:00",
-    "updated": "2026-02-18T10:10:14+00:00"
+    "updated": "2026-02-18T16:38:46+00:00"
   },
   "registry": {
     "did:web:digitalcredentials.github.io:vc-test-fixtures:dids:legacy": {
@@ -170,6 +170,11 @@
       "name": "Winter Sport Appreciation Club",
       "location": "Philadelphia, PA, USA",
       "url": "https://wintersport.prettygoodskills.com"
+    },
+    "did:key:z6Mkjw2S1zvE2edzb5JvJt5fjoGqP5jVdXXZ2qR76999kHkg": {
+      "name": "Friends of Liberty",
+      "location": "Philadelphia, PA, USA",
+      "url": "https://friendsofliberty.prettygoodskills.com"
     }
   }
 }
