@@ -1,7 +1,7 @@
 {
   "meta": {
     "created": "2022-10-27T17:57:31+00:00",
-    "updated": "2026-02-18T16:38:46+00:00"
+    "updated": "2026-03-04T14:49:48+00:00"
   },
   "registry": {
     "did:web:digitalcredentials.github.io:vc-test-fixtures:dids:legacy": {
@@ -175,6 +175,11 @@
       "name": "Friends of Liberty",
       "location": "Philadelphia, PA, USA",
       "url": "https://friendsofliberty.prettygoodskills.com"
+    },
+    "did:key:z6Mkqgh8CX4Nwes7XgGNvQJznxnsFwksW1bUeQiSMbfsGbKd": {
+      "name": "POK: Proof of Knowledge",
+      "location": "Uruguay",
+      "url": "https://www.pok.tech/"
     }
   }
 }
