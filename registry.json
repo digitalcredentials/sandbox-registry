@@ -1,7 +1,7 @@
 {
   "meta": {
     "created": "2022-10-27T17:57:31+00:00",
-    "updated": "2026-03-04T14:49:48+00:00"
+    "updated": "2026-03-25T00:00:00+00:00"
   },
   "registry": {
     "did:web:digitalcredentials.github.io:vc-test-fixtures:dids:legacy": {
@@ -180,6 +180,11 @@
       "name": "POK: Proof of Knowledge",
       "location": "Uruguay",
       "url": "https://www.pok.tech/"
+    },
+    "did:key:z6MkjtGVsELwWgu8WxHZfoFi9mVkGZ788CujgRqPru1sCpgJ": {
+      "name": "FBR (Test Issuer)",
+      "location": "Islamabad, Pakistan",
+      "url": "https://fbrlms.edly.io/"
     }
   }
 }
