@@ -134,6 +134,10 @@
       "name": "InnovateUS",
       "url": "https://innovate-us.org"
     },
+    "did:key:z6MksPks8CMBuVoNXBEgcMCNvAgg1j8JVsncGjhqcYGXPoA3": {
+      "name": "Badge Pilot",
+      "url": "https://badgepilot.org"
+    },
     "did:key:z6Mkqfv4hXbcAbDtam8v3DkpumyrxNaXBJJMcP3Mp7X1Ccwa": {
       "name": "Goodwill Industries International (Sandbox)",
       "url": "https://goodwill.claim-dev.prettygoodskills.com"
