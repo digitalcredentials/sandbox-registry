@@ -1,7 +1,7 @@
 {
   "meta": {
     "created": "2022-10-27T17:57:31+00:00",
-    "updated": "2026-03-25T00:00:00+00:00"
+    "updated": "2026-04-23T00:00:00+00:00"
   },
   "registry": {
     "did:web:digitalcredentials.github.io:vc-test-fixtures:dids:legacy": {
@@ -185,6 +185,11 @@
       "name": "FBR (Test Issuer)",
       "location": "Islamabad, Pakistan",
       "url": "https://fbrlms.edly.io/"
+    },
+    "did:key:z6MkvxDfCCScZv7jEMYu3QgzwJasj8A4dReE3Q9tGg1BsaNe": {
+      "name": "How to Change the World",
+      "location": "Global",
+      "url": "https://how-to-change-the-world.org"
     }
   }
 }
