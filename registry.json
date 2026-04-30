@@ -189,6 +189,11 @@
       "name": "FBR (Test Issuer)",
       "location": "Islamabad, Pakistan",
       "url": "https://fbrlms.edly.io/"
+    },
+    "did:key:z6MktyDnNDbfgTc7LUmERZt4t6xDByJ6TjuSeDsxcvzqUMjW": {
+      "name": "Scottish Digital Badges (Test Issuer)",
+      "location": "Scotland",
+      "url": "https://test.digitalbadges.scot"
     }
   }
 }
