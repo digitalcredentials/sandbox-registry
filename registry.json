@@ -1,7 +1,7 @@
 {
   "meta": {
     "created": "2022-10-27T17:57:31+00:00",
-    "updated": "2026-03-25T00:00:00+00:00"
+    "updated": "2026-06-05T00:00:00+00:00"
   },
   "registry": {
     "did:web:digitalcredentials.github.io:vc-test-fixtures:dids:legacy": {
@@ -196,4 +196,9 @@
       "url": "https://test.digitalbadges.scot"
     }
   }
+},
+"did:web:proof.recworks.io": {
+  "name": "RecWorks Credentials",
+  "location": "Chapel Hill, NC, USA",
+  "url": "https://proof.recworks.io"
 }
