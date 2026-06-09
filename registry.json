@@ -194,11 +194,11 @@
       "name": "Scottish Digital Badges (Test Issuer)",
       "location": "Scotland",
       "url": "https://test.digitalbadges.scot"
+    },
+    "did:web:proof.recworks.io": {
+      "name": "RecWorks Credentials",
+      "location": "Chapel Hill, NC, USA",
+      "url": "https://proof.recworks.io"
     }
   }
-},
-"did:web:proof.recworks.io": {
-  "name": "RecWorks Credentials",
-  "location": "Chapel Hill, NC, USA",
-  "url": "https://proof.recworks.io"
 }
