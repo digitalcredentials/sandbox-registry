@@ -1,7 +1,7 @@
 {
   "meta": {
     "created": "2022-10-27T17:57:31+00:00",
-    "updated": "2026-06-05T00:00:00+00:00"
+    "updated": "2026-06-17T00:00:00+00:00"
   },
   "registry": {
     "did:web:digitalcredentials.github.io:vc-test-fixtures:dids:legacy": {
@@ -199,6 +199,11 @@
       "name": "RecWorks Credentials",
       "location": "Chapel Hill, NC, USA",
       "url": "https://proof.recworks.io"
+    },
+    "did:web:credtrail.org": {
+      "name": "CredTrail Sandbox Issuer",
+      "location": "Independence, OH, USA",
+      "url": "https://credtrail.org"
     }
   }
 }
