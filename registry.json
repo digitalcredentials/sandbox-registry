@@ -1,7 +1,7 @@
 {
   "meta": {
     "created": "2022-10-27T17:57:31+00:00",
-    "updated": "2026-06-05T00:00:00+00:00"
+    "updated": "2026-10-02T00:00:00+00:00"
   },
   "registry": {
     "did:web:digitalcredentials.github.io:vc-test-fixtures:dids:legacy": {
@@ -199,6 +199,11 @@
       "name": "RecWorks Credentials",
       "location": "Chapel Hill, NC, USA",
       "url": "https://proof.recworks.io"
+    },
+    "did:key:z6MkkCNaxehr7RoeDJQP39oQ1yFbmUg29ziXfLwoyeCo1QFf": {
+      "name": "LCW Sandbox Issuer",
+      "location": "Cambridge, MA, USA",
+      "url": "https://issuer.lcw-sandbox.org"
     }
   }
 }
