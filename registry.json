@@ -199,6 +199,11 @@
       "name": "RecWorks Credentials",
       "location": "Chapel Hill, NC, USA",
       "url": "https://proof.recworks.io"
+    },
+    "did:web:sovcap.org:dev": {
+      "name": "sovcap.org Entwicklungsinstanz (TEST)",
+      "location": "Bamberg, Germany",
+      "url": "https://sovcap.org/dev/"
     }
   }
 }
