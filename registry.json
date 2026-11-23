@@ -1,9 +1,14 @@
 {
   "meta": {
     "created": "2022-10-27T17:57:31+00:00",
-    "updated": "2026-10-02T00:00:00+00:00"
+    "updated": "2026-11-23T03:15:00+00:00"
   },
   "registry": {
+    "did:web:hs.its.ac.nz": {
+      "name": "Industry Training Solutions",
+      "location": "Palmerston North, New Zealand",
+      "url": "https://hs.its.ac.nz"
+    },
     "did:web:digitalcredentials.github.io:vc-test-fixtures:dids:legacy": {
       "name": "DCC did:web for testing",
       "location": "Cambridge, MA, USA",
