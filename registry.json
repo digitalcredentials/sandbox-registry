@@ -1,7 +1,7 @@
 {
   "meta": {
     "created": "2022-10-27T17:57:31+00:00",
-    "updated": "2026-10-02T00:00:00+00:00"
+    "updated": "2026-11-27T00:00:00+00:00"
   },
   "registry": {
     "did:web:digitalcredentials.github.io:vc-test-fixtures:dids:legacy": {
@@ -204,6 +204,11 @@
       "name": "LCW Sandbox Issuer",
       "location": "Cambridge, MA, USA",
       "url": "https://issuer.lcw-sandbox.org"
+    },
+    "did:key:z6Mkk4qMEn8Pjz9iyQVSiME9kcwh3tjrpGoqYjiKmvGfMppX": {
+      "name": "Northern College of Trades",
+      "location": "Demonstration only",
+      "url": "https://college.lcw-sandbox.org"
     }
   }
 }
